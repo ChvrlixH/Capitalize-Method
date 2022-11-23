@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.exe
+C:\Users\Asus\source\repos\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.deps.json
+C:\Users\Asus\source\repos\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.runtimeconfig.json
+C:\Users\Asus\source\repos\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.dll
+C:\Users\Asus\source\repos\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.pdb
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.dll
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\refint\StringMethod.dll
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.pdb
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.genruntimeconfig.cache
+C:\Users\Asus\source\repos\StringMethod\StringMethod\obj\Debug\net6.0\ref\StringMethod.dll
